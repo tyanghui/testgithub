@@ -3,3 +3,7 @@
 #开发人员: Administrator 21:25
 #文件名: 111.py
 #开发工具: PyCharm
+
+import numpy as np
+
+a = [1, 2, 3]
